@@ -1,0 +1,1 @@
+This project aims to visualize what are are the different processes that are currently running in one's system. Also, It list all the processes in decreasing order of their memory usage as well as cpu usage. Also all this data gets updated every 120 secs (Can be changed to any small number like 1 sec; Here just done this so to able to see properly all the running processes).
